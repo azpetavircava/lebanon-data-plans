@@ -84,3 +84,10 @@ layout: default
 
 　　说到底，选择流量卡还是eSIM，就像选择用刀叉还是筷子吃饭——工具不同，但都能让你吃饱。选那个最适合你行程的就好。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Lebanon SIM 卡购买与激活指南](https://faciylike.github.io/lebanon-sim-guides)
